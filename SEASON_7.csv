@@ -4,16 +4,16 @@ timestamp,value,Games,Wins
 2025-09-10T00:00:00.000Z,Sixes_Silver_Style_Kei,,
 2025-09-10T00:00:00.000Z,Sixes_Gold_Style_Kei,,
 2025-09-10T00:00:00.000Z,Sixes_Gold_Ability_SuperSprint,,
-2025-09-10T00:00:00.000Z,Twos_Silver_Style_TimeskipShoyo2,,
+2025-09-10T00:00:00.000Z,Twos_Silver_Style_TimeskipShoyo2,1,1
 2025-09-10T00:00:00.000Z,Twos_Silver_Style_TimeskipShoyo,6,2
 2025-09-10T00:00:00.000Z,Twos_Bronze_Ability_FourthTouch,,
 2025-09-10T00:00:00.000Z,Twos_Silver_Ability_MagneticPull,5,4
-2025-09-10T00:00:00.000Z,Twos_Silver_Ability_FourthTouch,18,8
+2025-09-10T00:00:00.000Z,Twos_Silver_Ability_FourthTouch,20,9
 2025-09-10T00:00:00.000Z,Twos_Silver_Style_TimeskipTobio,5,4
-2025-09-10T00:00:00.000Z,Twos_Bronze_Style_Jester,,
-2025-09-10T00:00:00.000Z,Twos_Silver_Style_Rintaro,12,6
+2025-09-10T00:00:00.000Z,Twos_Bronze_Style_Jester,1,0
+2025-09-10T00:00:00.000Z,Twos_Silver_Style_Rintaro,13,7
 2025-09-10T00:00:00.000Z,Twos_Bronze_Ability_Moonball,,
-2025-09-10T00:00:00.000Z,Twos_Bronze_Ability_MagneticPull,1,
+2025-09-10T00:00:00.000Z,Twos_Bronze_Ability_MagneticPull,2,0
 2025-09-10T00:00:00.000Z,Twos_Bronze_Style_TimeskipTobio2,,
 2025-09-10T00:00:00.000Z,Twos_Silver_Style_Jester,,
 2025-09-10T00:00:00.000Z,Twos_Bronze_Style_TimeskipShoyo2,,
@@ -25,3 +25,5 @@ timestamp,value,Games,Wins
 2025-09-10T00:00:00.000Z,Twos_Silver_Ability_ShieldBreaker,,
 2025-09-10T00:00:00.000Z,Twos_Bronze_Style_Kenma,,
 2025-09-10T00:00:00.000Z,Twos_Bronze_Ability_ShieldBreaker,,
+2025-09-10T00:00:00.000Z,Twos_Silver_Ability_DivineStrength,1,1
+2025-09-10T00:00:00.000Z,Twos_Silver_Style_Kimiro,1,0
